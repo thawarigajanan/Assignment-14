@@ -1,0 +1,48 @@
+
+        @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Lugrasimo&family=Permanent+Marker&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    .text {
+        font-family: cursive;
+      }
+      .font {
+        font-family:kalam;
+      }
+      .fon{
+        font-family:Pacifico;
+      }
+      .img-dog {
+        height: 300px;
+        border-radius: 50px;
+        margin: 30px;
+        box-shadow: 2px 2px 5px 10px brown;
+      }
+
+      .img-dog:hover {
+        border-radius: 20px;
+        transition: 2s;
+      }
+      .box {
+        width: 600px;
+        background-color: palevioletred;
+        border: 2px solid black;
+        text-align: justify;
+        padding: 20px 20px 20px 20px;
+      }
+      .img-cat {
+        height: 300px;
+        border-radius: 50px;
+        margin: 30px;
+        box-shadow: 2px 2px 5px 10px rgb(138, 137, 136);
+      }
+      .img-cat:hover {
+        border-radius: 20px;
+        transition: 2s;
+      }
+      .para {
+        width: 600px;
+        background-color: forestgreen;
+        border: 2px solid black;
+        text-align: justify;
+        padding: 20px 20px 20px 20px;
+      }
+    
